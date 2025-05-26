@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         btnWhoAmI.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                tvOut.setText("Мой номер по списку № 23");
+                tvOut.setText("Мой номер по списку № 22");
                 checkBox.setChecked(true);
             }
         });
