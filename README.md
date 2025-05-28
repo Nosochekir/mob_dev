@@ -10,4 +10,8 @@
 
 [Практическая работа №5](https://github.com/Nosochekir/mob_dev/tree/lesson-5).
 
+[Практическая работа №6](https://github.com/Nosochekir/mob_dev/tree/lesson-6).
+
+
+
 
