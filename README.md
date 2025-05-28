@@ -2,4 +2,10 @@
 
 [Практическая работа №1](https://github.com/Nosochekir/mob_dev/tree/master).
 
-[Практическая работа №2](https://github.com/Nosochekir/mob_dev/tree/lesson-2)
+[Практическая работа №2](https://github.com/Nosochekir/mob_dev/tree/lesson-2).
+
+[Практическая работа №3](https://github.com/Nosochekir/mob_dev/tree/lesson-3).
+
+[Практическая работа №4](https://github.com/Nosochekir/mob_dev/tree/lesson-4).
+
+
