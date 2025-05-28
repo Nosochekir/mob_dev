@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333151800997",
+    "project_id": "klesson7",
+    "storage_bucket": "klesson7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333151800997:android:b69c053c5034fdd525874c",
+        "android_client_info": {
+          "package_name": "ru.mirea.perovka.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM-rSbHjL0X8-3pXoO6W47a8xt7Ugskuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
