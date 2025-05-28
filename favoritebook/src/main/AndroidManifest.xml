@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lesson3">
         <activity
-            android:name=".ShareActivity"
+            android:name=".SecondActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
