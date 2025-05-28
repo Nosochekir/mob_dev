@@ -12,6 +12,8 @@
 
 [Практическая работа №6](https://github.com/Nosochekir/mob_dev/tree/lesson-6).
 
+[Практическая работа №7](https://github.com/Nosochekir/mob_dev/tree/lesson-7).
+
 
 
 
