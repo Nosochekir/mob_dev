@@ -14,6 +14,8 @@
 
 [Практическая работа №7](https://github.com/Nosochekir/mob_dev/tree/lesson-7).
 
+[MireaProject](https://github.com/Nosochekir/mob_dev/tree/MireaProject).
+
 
 
 
