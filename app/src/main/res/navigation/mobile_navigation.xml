@@ -1,0 +1,70 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="ru.mirea.perovka.mireaproject.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="ru.mirea.perovka.mireaproject.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="ru.mirea.perovka.mireaproject.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_data"
+        android:name="ru.mirea.perovka.mireaproject.Data"
+        android:label="fragment_data"
+        tools:layout="@layout/fragment_data" />
+
+    <fragment
+        android:id="@+id/nav_web"
+        android:name="ru.mirea.perovka.mireaproject.WebViewFragment"
+        android:label="fragment_web_view"
+        tools:layout="@layout/fragment_web_view" />
+    <fragment
+        android:id="@+id/nav_background"
+        android:name="ru.mirea.perovka.mireaproject.Background"
+        android:label="fragment_background"
+        tools:layout="@layout/fragment_background" />
+    <fragment
+        android:id="@+id/nav_datchik"
+        android:name="ru.mirea.perovka.mireaproject.DatchikFragment"
+        android:label="fragment_datchik"
+        tools:layout="@layout/fragment_datchik" />
+    <fragment
+        android:id="@+id/nav_camera"
+        android:name="ru.mirea.perovka.mireaproject.CameraFragment"
+        android:label="fragment_camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/nav_audio"
+        android:name="ru.mirea.perovka.mireaproject.AudioFragment"
+        android:label="fragment_audio"
+        tools:layout="@layout/fragment_audio" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="ru.mirea.perovka.mireaproject.Profile"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/nav_fileWork"
+        android:name="ru.mirea.perovka.mireaproject.FileWork"
+        android:label="fragment_file_work"
+        tools:layout="@layout/fragment_file_work" />
+    <fragment
+        android:id="@+id/nav_network"
+        android:name="ru.mirea.perovka.mireaproject.NetworkResourse"
+        android:label="fragment_network_resourse"
+        tools:layout="@layout/fragment_network_resourse" />
+</navigation>
